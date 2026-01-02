@@ -8,7 +8,7 @@
 <ul>
   <li>Evitar o uso da tag <code>br</code> para espaçamento</li>
   <li>Melhor organização e estruturação de <code>div</code>s</li>
-  <li>Aplicação do display flex para layout</li>
+  <li>Aplicação do <strong>display flex</strong> para layout</li>
 </ul>
 <h3>💻 Acesso</h3>
 <p>Você pode acessar o projeto pelo link abaixo:</p>
