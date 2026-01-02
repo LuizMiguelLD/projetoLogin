@@ -6,8 +6,8 @@
 <h3>Objetivo 🎯</h3>
 <p>O objetivo do projeto foi praticar a <strong>estruturação de páginas com HTML</strong> e a <strong>estilização com CSS</strong>, além de explorar novos conceitos, como:</p>
 <ul>
-  <li>Evitar o uso da tag ```br``` para espaçamento</li>
-  <li>Melhor organização e estruturação de `div`</li>
+  <li>Evitar o uso da tag <code>br</code> para espaçamento</li>
+  <li>Melhor organização e estruturação de <code>div</code> </li>
   <li>Aplicação do display flex para layout</li>
 </ul>
 <h3>Acesso 🚀</h3>
