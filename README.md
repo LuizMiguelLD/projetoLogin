@@ -1,6 +1,6 @@
 <h1>Projeto Login 🔑</h1>
 <h3>Sobre 🔎</h3>
-<p>Esse projeto é uma releitura da página de Login criada por<strong>Leonardo Diman</strong>, um projeto desenvolvido inicialmente na minha escola</p> 
+<p>Esse projeto é uma releitura da página de Login criada por <strong>Leonardo Diman</strong>, um projeto desenvolvido inicialmente na minha escola</p> 
 <p>Projeto de referência:</p>
 <p>https://codante-tela-login-tailwind.vercel.app</p>
 <h3>Objetivo 🎯</h3>
