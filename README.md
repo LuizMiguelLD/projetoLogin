@@ -1,6 +1,8 @@
 <h1>Projeto Login 🔑</h1>
 <h3>Sobre</h3>
-<p>Esse projeto é uma releitura da página de Login de Leonardo Diman, um projeto realizado na minha escola, link de referência: https://codante-tela-login-tailwind.vercel.app/</p>
+<p>Esse projeto é uma releitura da página de Login de Leonardo Diman, um projeto realizado na minha escola</p> 
+<p>Link de referência:/</p>
+<p>https://codante-tela-login-tailwind.vercel.app</p>
 <h3>Objetivo</h3>
 <p>O objetivo dele era praticar estrutura da página com HTML e estilização com CSS. Além disso, descobrir novas técnicas como:</p>
 <ul>
